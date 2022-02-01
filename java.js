@@ -1,6 +1,16 @@
+const overskrift = document.querySelector("h1");
 const art1 = document.querySelector("#art1");
 const art2 = document.querySelector("#art2");
+const foot = document.querySelector("footer");
 
-console.log(art1);
+overskrift.textContent;
+console.log(overskrift.textContent);
 
-console.log(art2);
+art1.textContent;
+console.log(art1.textContent);
+
+art2.textContent;
+console.log(art2.textContent);
+
+foot.textContent;
+console.log(foot.textContent);
